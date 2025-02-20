@@ -1,5 +1,5 @@
-# hello-world
-This repository is for Cindy practicing the GitHub Flow
+# Hello-World
+This repository was for Cindy practicing the GitHub Flow
 I live in Anderson County
 Introduction to Programming Exercise - About Me
 <h2>My Hobbies</h2>
